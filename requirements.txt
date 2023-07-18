@@ -1,0 +1,71 @@
+streamlit
+
+pandas
+numpy
+matplotlib
+
+streamlit-option-menu
+watchdog
+#hydralit
+#hydralit_components
+
+gsheetsdb
+pyparsing
+# Streamlit components
+streamlit-ace
+streamlit-discourse
+streamlit-disqus
+streamlit-elements
+streamlit-pandas-profiling
+streamlit-player
+streamlit-quill
+streamlit-lottie
+
+
+seaborn
+datetime
+
+
+#map
+folium
+geemap
+geopandas
+jupyter-server-proxy
+keplergl
+leafmap
+localtileserver
+nbserverproxy
+owslib
+palettable
+plotly
+streamlit-bokeh-events
+streamlit-folium
+streamlit-keplergl
+tropycal
+streamlit-echarts
+#added on 17th
+streamlit-extras
+streamlit-aggrid
+
+##added on 29th
+pydeck
+##17 apr
+streamlit-login-auth-ui
+###19 Apr
+streamlit-authenticator
+###27 apr
+streamlit-auth0-component
+
+streamlit-elements-fluence 
+
+streamlit-on-Hover-tabs
+
+streamlit-nivo
+
+sqlalchemy
+fastapi 
+uvicorn 
+flask 
+flask_sqlalchemy
+databases
+asyncpg
