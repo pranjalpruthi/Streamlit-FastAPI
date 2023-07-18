@@ -15,7 +15,7 @@
 - 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/pranjalpruthi/apidemo.git
+   git clone https://github.com/pranjalpruthi/Streamlit-FastAPI.git
   ```
 
 
@@ -87,4 +87,4 @@ Streamlit: https://streamlit.io/ 🌟
 SQLite: https://www.sqlite.org/ 📚
 Feel free to explore the documentation and official websites of the tools used in this project for further information and guidance.
 
-Happy coding! ✨🎉👩‍💻
+## Happy coding! ✨🎉👩‍💻
