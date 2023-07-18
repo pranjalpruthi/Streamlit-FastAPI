@@ -22,7 +22,7 @@
 - Navigate to the project directory:
 
   ```python
-    cd apidemo
+    cd Streamlit-FastAPI
   ```
 
   Create a new Python virtual environment, or use conda/mamba to create a new environment:
@@ -86,7 +86,7 @@ Open your browser and visit http://localhost:8000/docs 📚. You will find the i
 
 
 ```bash
-   git clone https://github.com/pranjalpruthi/apidemo.git
+   streamlit run app.py
   ```
 
 ## Access the Streamlit app:
@@ -98,6 +98,16 @@ Open your browser and visit http://localhost:8501 🌐. You will see the Streaml
 
 # Streamlit App Snip
 ![CleanShot 2023-07-18 at 18 10 01@2x](https://github.com/pranjalpruthi/apidemo/assets/47497714/25ed66d4-2908-4868-a522-e8d20440c19c)
+
+
+# Uninstall/Remove Enviorments
+     deactivate  # deactivate the virtual environment
+     rm -rf /path/to/apidemo  # delete the directory
+
+     conda env remove --name apidemo
+
+     mamba env remove --name apidemo
+
 
 
 ## Contributing
