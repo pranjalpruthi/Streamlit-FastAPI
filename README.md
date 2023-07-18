@@ -24,6 +24,31 @@
   ```python
     cd apidemo
   ```
+
+  Create a new Python virtual environment, or use conda/mamba to create a new environment:
+
+- Python Virtual Environment:
+
+  ```python
+    python -m venv apidemo
+   source apidemo/bin/activate
+  ```
+
+- Conda:
+
+  ```python
+      conda create -n apidemo python=3.10
+      conda activate apidemo
+  ```
+
+- Mamba:
+
+  ```python
+     mamba create -n apidemo
+      mamba activate apidemo
+  ```
+
+
 - Install the required dependencies:
 
 ```python
