@@ -61,7 +61,7 @@
    uvicorn main:app --reload
   ```
 
-The backend server will be running at http://localhost:8000 🚀.
+The backend server will be running at http://localhost:8000/docs# 🚀.
 
 Access the Swagger UI documentation:
 
