@@ -79,7 +79,7 @@ Open your browser and visit http://localhost:8000/docs 📚. You will find the i
 - Navigate to the project directory (if not already there):
 
   ```bash
-  cd apidemo
+  cd Streamlit-FastAPI
   ```
 
 - Start the Streamlit app:
